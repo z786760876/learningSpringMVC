@@ -15,5 +15,6 @@
 <h3>show.jsp从request作用域获取数据</h3>
 <h3>myname:${myname}</h3>
 <h3>myage:${myage}</h3>
+<h3>myStudent:${myStudent}</h3>
 </body>
 </html>
