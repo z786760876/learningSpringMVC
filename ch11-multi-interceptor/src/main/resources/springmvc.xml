@@ -17,16 +17,22 @@
         <property name="suffix" value=".jsp"/>
     </bean>
 
-    <!--声明拦截器:拦截器可以有0或多个-->
+    <!--声明拦截器:拦截器可以有0或多个
+        在框架中保存多个拦截器是ArrayList,
+        按照声明的先后顺序放入到ArrayList
+    -->
     <mvc:interceptors>
         <!--声明第一个拦截器-->
         <mvc:interceptor>
-            <!--指定拦截的请求uri地址
-                path :就是uri地址，可以使用通配待**
-                ** :表示任意的字符,文件或者多级目录和目录中的文件-->
-            <mvc:mapping path="/**"/>
+              <mvc:mapping path="/**"/>
             <!--声明拦截器对象-->
             <bean class="com.bjpowernode.handler.MyInterceptor"/>
+        </mvc:interceptor>
+        <!--声明第二个拦截器-->
+        <mvc:interceptor>
+            <mvc:mapping path="/**"/>
+            <!--声明拦截器对象-->
+            <bean class="com.bjpowernode.handler.MyInterceptor2"/>
         </mvc:interceptor>
     </mvc:interceptors>
 </beans>

@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ch01-hello-springmvc/ch01-hello-springmvc.iml" filepath="$PROJECT_DIR$/ch01-hello-springmvc/ch01-hello-springmvc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ch02-requestmapping/ch02-requestmapping.iml" filepath="$PROJECT_DIR$/ch02-requestmapping/ch02-requestmapping.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/learningSpringMVC.iml" filepath="$PROJECT_DIR$/.idea/learningSpringMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11-multi-interceptor/ch11-multi-interceptor.iml" filepath="$PROJECT_DIR$/ch11-multi-interceptor/ch11-multi-interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learningSpringMVC.iml" filepath="$PROJECT_DIR$/learningSpringMVC.iml" />
     </modules>
   </component>
 </project>

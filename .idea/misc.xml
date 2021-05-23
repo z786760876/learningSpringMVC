@@ -3,14 +3,31 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/ch01-hello-springmvc" />
     <file type="web" url="file://$PROJECT_DIR$/ch02-requestmapping" />
+    <file type="web" url="file://$PROJECT_DIR$/ch03-receivepara" />
+    <file type="web" url="file://$PROJECT_DIR$/ch04-return" />
+    <file type="web" url="file://$PROJECT_DIR$/ch05-rul-partten" />
+    <file type="web" url="file://$PROJECT_DIR$/ch06-path" />
+    <file type="web" url="file://$PROJECT_DIR$/ch07-ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/ch08-forward-redirect" />
+    <file type="web" url="file://$PROJECT_DIR$/ch09-exception-handler" />
+    <file type="web" url="file://$PROJECT_DIR$/ch10-interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/ch11-multi-interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/../../tmp/2020班/07-springmvc代码/ch07-ssm" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/../../Program/Java/ch07-ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../../tmp/2020班/07-springmvc代码/ch07-ssm/pom(1).xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/ch01-hello-springmvc/pom.xml" />
-        <option value="$PROJECT_DIR$/ch02-requestmapping/pom.xml" />
+        <option value="$PROJECT_DIR$/ch11-multi-interceptor/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ch07-SSM/pom.xml" />
+        <option value="$PROJECT_DIR$/ch07-ssm/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
