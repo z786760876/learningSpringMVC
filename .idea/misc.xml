@@ -12,6 +12,7 @@
     <file type="web" url="file://$PROJECT_DIR$/ch09-exception-handler" />
     <file type="web" url="file://$PROJECT_DIR$/ch10-interceptor" />
     <file type="web" url="file://$PROJECT_DIR$/ch11-multi-interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/ch12-interceptor-permission" />
     <file type="web" url="file://$PROJECT_DIR$/../../tmp/2020班/07-springmvc代码/ch07-ssm" />
   </component>
   <component name="MavenProjectsManager">
@@ -20,7 +21,7 @@
         <option value="$PROJECT_DIR$/../../Program/Java/ch07-ssm/pom.xml" />
         <option value="$PROJECT_DIR$/../../tmp/2020班/07-springmvc代码/ch07-ssm/pom(1).xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/ch11-multi-interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/ch12-interceptor-permission/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
